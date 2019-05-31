@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuyongbo.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-05-31T03:29:51.672Z</updated>
+    <updated>2019-05-31T03:32:22.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuyongbo.github.io/"/>
     <link rel="self" href="https://yuyongbo.github.io//atom.xml"/>
@@ -10,4 +10,56 @@
     <logo>https://yuyongbo.github.io//images/avatar.png</logo>
     <icon>https://yuyongbo.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Goland]]></title>
+        <id>https://yuyongbo.github.io//post/goland</id>
+        <link href="https://yuyongbo.github.io//post/goland">
+        </link>
+        <updated>2019-05-31T03:31:09.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="下载地址">下载地址</h3>
+<p><a href="https://www.jetbrains.com/go/download/">https://www.jetbrains.com/go/download/</a></p>
+<h3 id="破解方法">破解方法</h3>
+<p>破解hosts文件</p>
+<p>https://segmentfault.com/a/1190000014229266</p>
+<p>获取注册码</p>
+<p>http://idea.lanyus.com/</p>
+<h3 id="快捷键">快捷键</h3>
+<h4 id="切换ui">切换UI</h4>
+<pre><code class="language-bash">ctrl + ~
+</code></pre>
+<h4 id="合起展开方法列表">合起/展开方法列表</h4>
+<pre><code>shift,ctrl/cmd,-/+
+</code></pre>
+<p>合起展开单个方法，函数</p>
+<pre><code>ctrl/cmd,-/+
+</code></pre>
+<h4 id="查看跳转历史文件列表">查看跳转历史文件列表</h4>
+<pre><code>ctrl,tab
+</code></pre>
+<h4 id="跳转行">跳转行</h4>
+<pre><code>ctrl,g
+</code></pre>
+<h4 id="git操作">Git操作</h4>
+<pre><code>alt,`
+</code></pre>
+<h4 id="注释">注释</h4>
+<pre><code class="language-bash">ctrl,/
+// 单行
+shift,ctrl,/
+// 多行
+</code></pre>
+<h4 id="全局搜索type">全局搜索type</h4>
+<pre><code>ctrl，n
+</code></pre>
+<h4 id="格式化文件代码">格式化文件代码</h4>
+<pre><code>shift,cmd,alt,f
+</code></pre>
+<h4 id="文件内部切换光标">文件内部切换光标</h4>
+<pre><code>cmd.alt,左右键
+</code></pre>
+<h4 id="显示git下改动的文件列表">显示Git下改动的文件列表</h4>
+<pre><code>shift,alt,cmd,d
+</code></pre>
+]]></content>
+    </entry>
 </feed>
