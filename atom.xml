@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuyongbo.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-05-31T03:11:25.896Z</updated>
+    <updated>2019-05-31T03:12:28.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuyongbo.github.io/"/>
     <link rel="self" href="https://yuyongbo.github.io//atom.xml"/>
@@ -10,32 +10,6 @@
     <logo>https://yuyongbo.github.io//images/avatar.png</logo>
     <icon>https://yuyongbo.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[# 2018年上半年总结与下半年规划]]></title>
-        <id>https://yuyongbo.github.io//post/2018-nian-shang-ban-nian-zong-jie-yu-xia-ban-nian-gui-hua</id>
-        <link href="https://yuyongbo.github.io//post/2018-nian-shang-ban-nian-zong-jie-yu-xia-ban-nian-gui-hua">
-        </link>
-        <updated>2019-05-31T02:53:44.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="2018年上半年总结与下半年规划">2018年上半年总结与下半年规划</h1>
-<h3 id=""></h3>
-<h3 id="2018年上半年工作总结">2018年上半年工作总结</h3>
-<h4 id="1工作完成情况">1.工作完成情况：</h4>
-<p>​    从过年来到现在，在公司领导的带领下，首先完成了同事电脑的升级工作，包括：电脑配置的统计，内存条和SSD（固态硬盘）等电脑硬件的选购与安装，操作系统的安装以及其他电脑软件相关使用的处理。经过这次电脑升级工作，同事的电脑运行速度也得到了显著地提升，并大大提高了大家的工作效率。另一方面，在CTO的带领下，也在积极为APP的开发工作做相应的技术储备工作。项目后台计划采用微服务架构，主要结合go-micro微服务框架，NSQ消息队列，RedisNoSQL,Etcd服务发现，GRPC通信等技术。我也相应写了对应技术的应用Demo。</p>
-<h4 id="2遇到的问题及改进措施">2.遇到的问题及改进措施：</h4>
-<p>​	在给电脑安装硬时也遇到不少问题，比如硬盘的安装位置，内存条的购买，内存条需要购买同一型号，相同电压的这样才能使电脑高速运转。都需要结合检测计算机的各个硬件的型号和考虑安装时候的真实情况。</p>
-<p>​	另外，在准备项目的技术时，觉得对有些技术的相关知识点认识还是不够清晰，或许到真实项目环境中才能真正的发掘和领会到。这些问题我也会多次在网上搜索和请教同事或朋友。从而对这些知识有更清楚的认知，更好地应用在实际开发任务工作中。在考察一门技术的时候多结合其他技术进行考虑，或换个角度和层次去看待问题。</p>
-<h4 id="3对公司的建议和展望">3.对公司的建议和展望：</h4>
-<p>​	经过这半年在公司的工作，公司变化也很多，一些基础设施在新领导的带领下也得到了很大的改善。给我们营造了一个好的工作和学习环境。在这期间，我们全公司的人还进行了一次比较愉快的团建活动。促进了彼此的合作和交流。希望公司以后多开展一些这样的活动来增强同事之间的融洽关系。也希望公司在员工的幸福感这块做的更好。</p>
-<p>​	产品方面，希望产品部加快产品的研讨和产出，我建议使用产品迭代的思想，先做一些基础模块的功能，再慢慢叠加核心服务功能，产品毕竟是一个随时代变化的产物。用户才是真正的产品经理。希望公司在这方面加大力度去改善目前的状况。</p>
-<h3 id="2018年下半年工作计划">2018年下半年工作计划</h3>
-<h4 id="1主要目标和思路">1.主要目标和思路：</h4>
-<p>​	下半年前期计划完善产品的微服务框架Demo，并与安卓、iOS前端对接一些用户等模块的一些基础服务，规范并编写接口文档，熟悉产品前期的业务的逻辑关系，设计并编写相关接口。从而为公司产品的初期开发做试验性和稳定服务的工作。后期待产品原型出来再结合模块功能业务，设计整体的后台架构方案和技术路线，和CTO,同事共同去开展接下来相应的工作。</p>
-<h4 id="2工作任务的具体实施">2.工作任务的具体实施：</h4>
-<p>​	在开发测试系统的流程下根据CTO的模块划分和项目周期规划，按时准确的完成每天的既定目标，遇到问题及时与同事沟通交流。</p>
-<p>​	在开发过程中多学习当下前沿的技术和更新项目的技术模块，不断完善代码结构，将微服务的思想应用到项目中去，并与同事在工作中积极的进行合作和学习，保证项目稳定和高效的运行实施。</p>
-<p>​	开发项目的分布式后台系统，结合DevOps的工作思维，逐步建立完善的持续集成和持续交付工作。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yuyongbo.github.io//post/hello-gridea</id>
